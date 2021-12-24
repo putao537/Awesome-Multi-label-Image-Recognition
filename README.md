@@ -110,6 +110,7 @@
 
 | **Pub.** | **Title**                                                    |                          **Links**                           |
 | :------: | :----------------------------------------------------------- | :----------------------------------------------------------: |
+| **TPAMI'20** | **[KGGR]** Knowledge-Guided Multi-Label Few-Shot Learning for General Image Recognition | [Paper](https://arxiv.org/abs/2009.09450) |
 | **ICCV'21** | **[BiAM]** Discriminative Region-based Multi-Label Zero-Shot Learning |[Paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Narayan_Discriminative_Region-Based_Multi-Label_Zero-Shot_Learning_ICCV_2021_paper.pdf)/[Code](https://github.com/akshitac8/BiAM) |
 | **ICCV'21** | Semantic Diversity Learning for Zero-Shot Multi-label Classification | [Paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Ben-Cohen_Semantic_Diversity_Learning_for_Zero-Shot_Multi-Label_Classification_ICCV_2021_paper.pdf)/[Code](https://github.com/Alibaba-MIIL/ZS_SDL) |
 | **CVPR'20** | A Shared Multi-Attention Framework for Multi-Label Zero-Shot Learning | [Paper](https://openaccess.thecvf.com/content_CVPR_2020/papers/Huynh_A_Shared_Multi-Attention_Framework_for_Multi-Label_Zero-Shot_Learning_CVPR_2020_paper.pdf) |
