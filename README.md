@@ -83,16 +83,6 @@
 
 
 <details>
-  <summary> Multi-label Image Recognition with Nosiy Labels </summary>
-
-| **Pub.** | **Title**                                                    |                          **Links**                           |
-| :------: | :----------------------------------------------------------- | :----------------------------------------------------------: |
-| **CVPR'19** | Weakly Supervised Image Classification through Noise Regularization | [PDF](https://openaccess.thecvf.com/content_CVPR_2019/papers/Hu_Weakly_Supervised_Image_Classification_Through_Noise_Regularization_CVPR_2019_paper.pdf) |
-| **CVPR'17** | Learning From Noisy Large-Scale Datasets With Minimal Supervision | [PDF](https://openaccess.thecvf.com/content_cvpr_2017/papers/Veit_Learning_From_Noisy_CVPR_2017_paper.pdf) |
-</details>
-
-
-<details>
   <summary> Multi-label Image Recognition with Partial Labels </summary>
   
 |  **Pub.**   | **Title**                                                    |                          **Links**                           |
@@ -120,6 +110,24 @@
 | **CVPR'18** | Multi-Label Zero-Shot Learning with Structured Knowledge Graphs | [PDF](https://openaccess.thecvf.com/content_cvpr_2018/papers/Lee_Multi-Label_Zero-Shot_Learning_CVPR_2018_paper.pdf)/[Code](https://github.com/Phoenix1327/ML-ZSL) |
 | **CVPR'16** | Fast Zero-Shot Image Tagging | [PDF](https://openaccess.thecvf.com/content_cvpr_2016/papers/Zhang_Fast_Zero-Shot_Image_CVPR_2016_paper.pdf)/[Code](https://github.com/brthmas/Fast-Zero-Shot-Image-Tagging) |
 | arxiv | Multi-Label Learning from Single Positive Labels | [PDF](https://arxiv.org/pdf/2106.09708.pdf)|
+</details>
+
+
+<details>
+  <summary> Multi-label Image Recognition with Nosiy Labels </summary>
+
+| **Pub.** | **Title**                                                    |                          **Links**                           |
+| :------: | :----------------------------------------------------------- | :----------------------------------------------------------: |
+| **CVPR'19** | Weakly Supervised Image Classification through Noise Regularization | [PDF](https://openaccess.thecvf.com/content_CVPR_2019/papers/Hu_Weakly_Supervised_Image_Classification_Through_Noise_Regularization_CVPR_2019_paper.pdf) |
+| **CVPR'17** | Learning From Noisy Large-Scale Datasets With Minimal Supervision | [PDF](https://openaccess.thecvf.com/content_cvpr_2017/papers/Veit_Learning_From_Noisy_CVPR_2017_paper.pdf) |
+</details>
+
+<details>
+  <summary> Multi-label Image Recognition with Long-tailed Labels </summary>
+
+| **Pub.** | **Title**                                                    |                          **Links**                           |
+| :------: | :----------------------------------------------------------- | :----------------------------------------------------------: |
+| **ECCV'20** | Distribution-Balanced Loss for Multi-Label Classification in Long-Tailed Datasets | [PDF](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123490154.pdf)/[Code](https://github.com/wutong16/DistributionBalancedLoss) |
 </details>
 
 <h2 id="1">1. Tutorials</h2>
