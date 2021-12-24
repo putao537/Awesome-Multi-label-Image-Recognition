@@ -83,21 +83,6 @@
 
 
 <details>
-  <summary> Multi-label Image Recognition with Partial Labels </summary>
-  
-|  **Pub.**   | **Title**                                                    |                          **Links**                           |
-| :---------: | :----------------------------------------------------------- | :----------------------------------------------------------: |
-| **TPAMI'21** | **[P-GCN]** Learning Graph Convolutional Networks for Multi-Label Recognition and Applications | [PDF](https://ieeexplore.ieee.org/abstract/document/9369105) |
-| **AAAI'22** | Semantic-Aware Representation Blending for Multi-Label Image Recognition with Partial Labels | [PDF](https://arxiv.org/abs/2112.10941)/[Code](https://github.com/HCPLab-SYSU/HCP-MLR-PL) |
-| **AAAI'22** | Structured Semantic Transfer for Multi-Label Recognition with Partial Labels | [PDF]()/[Code](https://github.com/HCPLab-SYSU/HCP-MLR-PL) |  
-|  **CVPR'20** | Interactive Multi-Label CNN Learning with Partial Labels | [PDF](https://openaccess.thecvf.com/content_CVPR_2020/papers/Huynh_Interactive_Multi-Label_CNN_Learning_With_Partial_Labels_CVPR_2020_paper.pdf) |
-| **NeurIPS'20** | Exploiting weakly supervised visual patterns to learn from partial annotations | [PDF](https://proceedings.neurips.cc/paper/2020/file/066ca7bf90807fcd8e4f1eaef4e4e8f7-Paper.pdf) |
-|  **CVPR'19** | Learning a Deep ConvNet for Multi-label Classification with Partial Labels | [PDF](https://openaccess.thecvf.com/content_CVPR_2019/papers/Durand_Learning_a_Deep_ConvNet_for_Multi-Label_Classification_With_Partial_Labels_CVPR_2019_paper.pdf) |
-| arxiv | **[ATAM]** Rethinking Crowdsourcing Annotation: Partial Annotation with Salient Labels for Multi-Label Image Classification | [PDF](https://arxiv.org/pdf/2109.02688.pdf) |
-</details>
-
-
-<details>
   <summary> Few/Zero-shot Multi-label Image Recognition </summary>
 
 | **Pub.** | **Title**                                                    |                          **Links**                           |
@@ -110,6 +95,21 @@
 | **CVPR'18** | Multi-Label Zero-Shot Learning with Structured Knowledge Graphs | [PDF](https://openaccess.thecvf.com/content_cvpr_2018/papers/Lee_Multi-Label_Zero-Shot_Learning_CVPR_2018_paper.pdf)/[Code](https://github.com/Phoenix1327/ML-ZSL) |
 | **CVPR'16** | Fast Zero-Shot Image Tagging | [PDF](https://openaccess.thecvf.com/content_cvpr_2016/papers/Zhang_Fast_Zero-Shot_Image_CVPR_2016_paper.pdf)/[Code](https://github.com/brthmas/Fast-Zero-Shot-Image-Tagging) |
 | arxiv | Multi-Label Learning from Single Positive Labels | [PDF](https://arxiv.org/pdf/2106.09708.pdf)|
+</details>
+
+
+<details>
+  <summary> Multi-label Image Recognition with Partial Labels </summary>
+  
+|  **Pub.**   | **Title**                                                    |                          **Links**                           |
+| :---------: | :----------------------------------------------------------- | :----------------------------------------------------------: |
+| **TPAMI'21** | **[P-GCN]** Learning Graph Convolutional Networks for Multi-Label Recognition and Applications | [PDF](https://ieeexplore.ieee.org/abstract/document/9369105) |
+| **AAAI'22** | Semantic-Aware Representation Blending for Multi-Label Image Recognition with Partial Labels | [PDF](https://arxiv.org/abs/2112.10941)/[Code](https://github.com/HCPLab-SYSU/HCP-MLR-PL) |
+| **AAAI'22** | Structured Semantic Transfer for Multi-Label Recognition with Partial Labels | [PDF]()/[Code](https://github.com/HCPLab-SYSU/HCP-MLR-PL) |  
+|  **CVPR'20** | Interactive Multi-Label CNN Learning with Partial Labels | [PDF](https://openaccess.thecvf.com/content_CVPR_2020/papers/Huynh_Interactive_Multi-Label_CNN_Learning_With_Partial_Labels_CVPR_2020_paper.pdf) |
+| **NeurIPS'20** | Exploiting weakly supervised visual patterns to learn from partial annotations | [PDF](https://proceedings.neurips.cc/paper/2020/file/066ca7bf90807fcd8e4f1eaef4e4e8f7-Paper.pdf) |
+|  **CVPR'19** | Learning a Deep ConvNet for Multi-label Classification with Partial Labels | [PDF](https://openaccess.thecvf.com/content_CVPR_2019/papers/Durand_Learning_a_Deep_ConvNet_for_Multi-Label_Classification_With_Partial_Labels_CVPR_2019_paper.pdf) |
+| arxiv | **[ATAM]** Rethinking Crowdsourcing Annotation: Partial Annotation with Salient Labels for Multi-Label Image Classification | [PDF](https://arxiv.org/pdf/2109.02688.pdf) |
 </details>
 
 
