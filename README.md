@@ -1,4 +1,4 @@
-# Multi-label Image Recognition (多标签图像识别)
+# Multi-label Image Recognition (多标签图像识别) ![](https://visitor-badge.glitch.me/badge?page_id=putao537.Awesome-Multi-label-Image-Recognition)
 
 <h4 align="center">Everything about Multi-label Image Recognition.</h4>
 
