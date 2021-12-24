@@ -71,6 +71,7 @@
 | :-------: | :----------------------------------------------------------- | :----------------------------------------------------------: |
 | **TPAMI'15** | **[HCP]** HCP: A Flexible CNN Framework for Multi-Label Image Classification | [Paper](https://ieeexplore.ieee.org/document/7305792)  |
 | **AAAI'18** | **[Order-Free RNN]** Order-Free RNN with Visual Attention for Multi-Label Classification | [Paper](https://arxiv.org/abs/1707.05495) |
+| **AAAI'19** | Recurrent Attentional Reinforcement Learning for Multi-label Image Recognition | [Paper](https://arxiv.org/pdf/1712.07465.pdf) |
 | **IJCAI'18** | **[MsDPD]** Multi-scale and Discriminative Part Detectors Based Features for Multi-label Image Classification | [Paper](https://www.ijcai.org/Proceedings/2018/0090.pdf) |
 | **ICCV'17** | **[WILDCAT]** WILDCAT: Weakly Supervised Learning of Deep ConvNets for Image Classification, Pointwise Localization and Segmentation | [Paper](https://openaccess.thecvf.com/content_cvpr_2017/papers/Durand_WILDCAT_Weakly_Supervised_CVPR_2017_paper.pdf)/[Code](https://github.com/durandtibo/wildcat.pytorch) |
 | **ICCV'17** | **[RDAR]** Multi-label Image Recognition by Recurrently Discovering Attentional Regions | [Paper](https://openaccess.thecvf.com/content_ICCV_2017/papers/Wang_Multi-Label_Image_Recognition_ICCV_2017_paper.pdf)/[Code](https://github.com/James-Yip/AttentionImageClass) |
