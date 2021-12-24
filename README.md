@@ -96,6 +96,7 @@
   
 |  **Pub.**   | **Title**                                                    |                          **Links**                           |
 | :---------: | :----------------------------------------------------------- | :----------------------------------------------------------: |
+| **TPAMI'21** | **[P-GCN]** Learning Graph Convolutional Networks for Multi-Label Recognition and Applications | [Paper](https://ieeexplore.ieee.org/abstract/document/9369105) |
 | **AAAI'22** | Semantic-Aware Representation Blending for Multi-Label Image Recognition with Partial Labels | [Paper](https://arxiv.org/abs/2112.10941)/[Code](https://github.com/HCPLab-SYSU/HCP-MLR-PL) |
 | **AAAI'22** | Structured Semantic Transfer for Multi-Label Recognition with Partial Labels | [Paper]()/[Code](https://github.com/HCPLab-SYSU/HCP-MLR-PL) |  
 |  **CVPR'20** | Interactive Multi-Label CNN Learning with Partial Labels | [Paper](https://openaccess.thecvf.com/content_CVPR_2020/papers/Huynh_Interactive_Multi-Label_CNN_Learning_With_Partial_Labels_CVPR_2020_paper.pdf) |
