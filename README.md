@@ -108,6 +108,7 @@
 | **TPAMI'21** | **[P-GCN]** Learning Graph Convolutional Networks for Multi-Label Recognition and Applications | [PDF](https://ieeexplore.ieee.org/abstract/document/9369105) |
 | **AAAI'22** | Semantic-Aware Representation Blending for Multi-Label Image Recognition with Partial Labels | [PDF](https://arxiv.org/abs/2112.10941)/[Code](https://github.com/HCPLab-SYSU/HCP-MLR-PL) |
 | **AAAI'22** | Structured Semantic Transfer for Multi-Label Recognition with Partial Labels | [PDF]()/[Code](https://github.com/HCPLab-SYSU/HCP-MLR-PL) |  
+| **CVPR'21** | Multi-Label Learning from Single Positive Labels | [PDF](https://openaccess.thecvf.com/content/CVPR2021/papers/Cole_Multi-Label_Learning_From_Single_Positive_Labels_CVPR_2021_paper.pdf) |
 |  **CVPR'20** | Interactive Multi-Label CNN Learning with Partial Labels | [PDF](https://openaccess.thecvf.com/content_CVPR_2020/papers/Huynh_Interactive_Multi-Label_CNN_Learning_With_Partial_Labels_CVPR_2020_paper.pdf) |
 | **NeurIPS'20** | Exploiting weakly supervised visual patterns to learn from partial annotations | [PDF](https://proceedings.neurips.cc/paper/2020/file/066ca7bf90807fcd8e4f1eaef4e4e8f7-Paper.pdf) |
 |  **CVPR'19** | Learning a Deep ConvNet for Multi-label Classification with Partial Labels | [PDF](https://openaccess.thecvf.com/content_CVPR_2019/papers/Durand_Learning_a_Deep_ConvNet_for_Multi-Label_Classification_With_Partial_Labels_CVPR_2019_paper.pdf) |
@@ -129,6 +130,7 @@
 
 | **Pub.** | **Title**                                                    |                          **Links**                           |
 | :------: | :----------------------------------------------------------- | :----------------------------------------------------------: |
+| **CVPR'21** | Long-Tailed Multi-Label Visual Recognition by Collaborative Training on Uniform and Re-balanced Samplings | [PDF](https://openaccess.thecvf.com/content/CVPR2021/papers/Guo_Long-Tailed_Multi-Label_Visual_Recognition_by_Collaborative_Training_on_Uniform_and_CVPR_2021_paper.pdf) |
 | **ECCV'20** | Distribution-Balanced Loss for Multi-Label Classification in Long-Tailed Datasets | [PDF](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123490154.pdf)/[Code](https://github.com/wutong16/DistributionBalancedLoss) |
 </details>
 
