@@ -153,10 +153,37 @@
 <h2 id="4">4. Datasets & Benchmarks</h2>
 
 ### Benchmarks
-<details> <summary> CNN-based Methods </summary>
+
+
+<details> <summary> COCO2014 </summary>
   
+  
+  | **Methods** | **Input Size** | **Architecture** | **mAP** | **CP** | **CR** | **CF1** | **OP** | **OR** | **OF1** | 
+  | :---------: | :------------: | :--------------: | :-----: | :----: | :----: | :-----: | :----: | :----: | :-----: |
+  | **ML-GCN**(CVPR'19) | 448 $\times$ 448 | - | - | - | - | - | - | - |
+  | **SSGRL**(ICCV'19) | - | - | - | - | - | - | - | - |
+  
+  **Note:** Only present the precision, recall, and F1-measure for all prediction scores.
 </details>
 
-<details> <summary> Transformer-based Methods </summary>
+<details> <summary> Visaul Gene </summary>
   
+  
+  | **Methods** | **Input Size** | **Architecture** | **mAP** | **CP** | **CR** | **CF1** | **OP** | **OR** | **OF1** | 
+  | :---------: | :------------: | :--------------: | :-----: | :----: | :----: | :-----: | :----: | :----: | :-----: |
+  | **ML-GCN**(CVPR'19) | - | - | - | - | - | - | - | - |
+  | **SSGRL**(ICCV'19) | - | - | - | - | - | - | - | - |
+  
+  **Note:** Only present the precision, recall, and F1-measure for all prediction scores.
+</details>
+
+<details> <summary> VOC2007 </summary>
+  
+  
+  | **Methods** | **Input Size** | **Architecture** | **mAP** | **CP** | **CR** | **CF1** | **OP** | **OR** | **OF1** | 
+  | :---------: | :------------: | :--------------: | :-----: | :----: | :----: | :-----: | :----: | :----: | :-----: |
+  | **ML-GCN**(CVPR'19) | - | - | - | - | - | - | - | - |
+  | **SSGRL**(ICCV'19) | - | - | - | - | - | - | - | - |
+  
+  **Note:** Only present the precision, recall, and F1-measure for all prediction scores.
 </details>
