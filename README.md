@@ -169,7 +169,7 @@
   | **AdaHGNN**（ACM MM'20）| (576,576) | CNN-based | 85.0 | - | - | 79.9 | - | - | 81.8 |
   | **TDRG**（ICCV21）| (448,448) | CNN-Transformer | 84.6 | 86.0 | 73.1 | 79.0 | 86.6 | 76.4 | 81.2 |
   | **C-Tran**（CVPR'21）| (576,576) | CNN-Transformer | 85.1 | 86.3 | 74.3 | 79.9 | 87.7 | 76.5 | 81.7 |
-  | **TDRG**（ICCV21）| (576,576) | CNN-Transformer | 86.0 | 87.0 | 74.7 | 80.4 | 87.5 | 77.9 | 82.4 |
+  | **TDRG**（ICCV'21）| (576,576) | CNN-Transformer | 86.0 | 87.0 | 74.7 | 80.4 | 87.5 | 77.9 | 82.4 |
   
   
   **Note:** Only present the precision, recall, and F1-measure for all prediction scores.
