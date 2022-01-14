@@ -192,12 +192,12 @@
   | **Methods** | **Input Size** | **Architecture** | **mAP** | **CP** | **CR** | **CF1** | **OP** | **OR** | **OF1** | 
   | :---------: | :------------: | :--------------: | :-----: | :----: | :----: | :-----: | :----: | :----: | :-----: |
   | **ML-GCN** (CVPR'19) |(448, 448) | CNN-based | 94.0 | - | - | - | - | - | - |
+  | **P-GCN**（TPAMI'21）| (448,448) | CNN-based | 94.3 | - | - | - | - | - | - |
+  | **ADD-GCN** (ECCV'20) | (448,448) | CNN-based | 96.0 | - | - | - | - | - | - |
   | **SSGRL** (ICCV'19) | (576,576) | CNN-based | 93.4 | - | - | - | - | - | - |
   | **KGGR** (TPAMI'20) | (576,576) | CNN-based | 93.6 | - | - | - | - | - | - |
-  | **ADD-GCN** (ECCV'20) | (448,448) | CNN-based | 96.0 | - | - | - | - | - | - |
-  | **AdaHGNN**（ACM MM'20）| (576,576) | CNN-based | 95.2 | - | - | - | - | - | - |
-  | **P-GCN**（TPAMI'21）| (448,448) | CNN-based | 94.3 | - | - | - | - | - | - |
   | **MCAR**（TIP'21）| (576,576) | CNN-based | 94.8 | - | - | - | - | - | - |
+  | **AdaHGNN**（ACM MM'20）| (576,576) | CNN-based | 95.2 | - | - | - | - | - | - |
   | **TDRG**（ICCV21）| (448,448) | CNN-Transformer | 95.0 | - | - | - | - | - | - |
   
   **Note:** Only present the precision, recall, and F1-measure for all prediction scores.
