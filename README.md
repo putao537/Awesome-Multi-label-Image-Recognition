@@ -157,32 +157,29 @@
 
 <details> <summary> COCO2014 </summary>
   
-  
   | **Methods** | **Input Size** | **Architecture** | **mAP** | **CP** | **CR** | **CF1** | **OP** | **OR** | **OF1** | 
   | :---------: | :------------: | :--------------: | :-----: | :----: | :----: | :-----: | :----: | :----: | :-----: |
   | **ML-GCN**(CVPR'19) | (448, 448) | CNN-based | 83.0 | 85.1 | 72.0 | 78.0 | 85.8 | 75.4 | 80.3 |
-  | **SSGRL**(ICCV'19) | - | - | - | - | - | - | - | - |
+  | **SSGRL**(ICCV'19) | (576,576) | CNN-based | 83.8 | 89.9 | 68.5 | 76.8 | 91.3 | 70.8 | 79.7 |
   
   **Note:** Only present the precision, recall, and F1-measure for all prediction scores.
 </details>
 
-<details> <summary> Visaul Gene </summary>
-  
-  
+<details> <summary> Visual Genome 500 </summary>
+ 
   | **Methods** | **Input Size** | **Architecture** | **mAP** | **CP** | **CR** | **CF1** | **OP** | **OR** | **OF1** | 
   | :---------: | :------------: | :--------------: | :-----: | :----: | :----: | :-----: | :----: | :----: | :-----: |
-  | **SSGRL**(ICCV'19) | - | - | - | - | - | - | - | - |
+  | **SSGRL**(ICCV'19) | (576,576) | CNN-based | 36.6 | - | - | - | - | - | - |
   
   **Note:** Only present the precision, recall, and F1-measure for all prediction scores.
 </details>
 
 <details> <summary> VOC2007 </summary>
   
-  
   | **Methods** | **Input Size** | **Architecture** | **mAP** | **CP** | **CR** | **CF1** | **OP** | **OR** | **OF1** | 
   | :---------: | :------------: | :--------------: | :-----: | :----: | :----: | :-----: | :----: | :----: | :-----: |
   | **ML-GCN**(CVPR'19) |(448, 448) | CNN-based | 94.0 | - | - | - | - | - | - |
-  | **SSGRL**(ICCV'19) | - | - | - | - | - | - | - | - |
+  | **SSGRL**(ICCV'19) | (576,576) | CNN-based | 93.4 | - | - | - | - | - | - |
   
   **Note:** Only present the precision, recall, and F1-measure for all prediction scores.
 </details>
