@@ -160,7 +160,7 @@
   
   | **Methods** | **Input Size** | **Architecture** | **mAP** | **CP** | **CR** | **CF1** | **OP** | **OR** | **OF1** | 
   | :---------: | :------------: | :--------------: | :-----: | :----: | :----: | :-----: | :----: | :----: | :-----: |
-  | **ML-GCN**(CVPR'19) | 448 $\times$ 448 | - | - | - | - | - | - | - |
+  | **ML-GCN**(CVPR'19) | (448, 448) | CNN-based | 83.0 | 85.1 | 72.0 | 78.0 | 85.8 | 75.4 | 80.3 |
   | **SSGRL**(ICCV'19) | - | - | - | - | - | - | - | - |
   
   **Note:** Only present the precision, recall, and F1-measure for all prediction scores.
@@ -171,7 +171,6 @@
   
   | **Methods** | **Input Size** | **Architecture** | **mAP** | **CP** | **CR** | **CF1** | **OP** | **OR** | **OF1** | 
   | :---------: | :------------: | :--------------: | :-----: | :----: | :----: | :-----: | :----: | :----: | :-----: |
-  | **ML-GCN**(CVPR'19) | - | - | - | - | - | - | - | - |
   | **SSGRL**(ICCV'19) | - | - | - | - | - | - | - | - |
   
   **Note:** Only present the precision, recall, and F1-measure for all prediction scores.
@@ -182,7 +181,7 @@
   
   | **Methods** | **Input Size** | **Architecture** | **mAP** | **CP** | **CR** | **CF1** | **OP** | **OR** | **OF1** | 
   | :---------: | :------------: | :--------------: | :-----: | :----: | :----: | :-----: | :----: | :----: | :-----: |
-  | **ML-GCN**(CVPR'19) | - | - | - | - | - | - | - | - |
+  | **ML-GCN**(CVPR'19) |(448, 448) | CNN-based | 94.0 | - | - | - | - | - | - |
   | **SSGRL**(ICCV'19) | - | - | - | - | - | - | - | - |
   
   **Note:** Only present the precision, recall, and F1-measure for all prediction scores.
