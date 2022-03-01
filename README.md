@@ -90,6 +90,7 @@
 | :------: | :----------------------------------------------------------- | :----------------------------------------------------------: |
 | **TPAMI'20** | **[KGGR]** Knowledge-Guided Multi-Label Few-Shot Learning for General Image Recognition | [PDF](https://arxiv.org/abs/2009.09450) |
 | **TIP'20** | Deep Ranking for Image Zero-Shot Multi-Label Classification | [PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9093152) |
+| **AAAI'22** | Inferring Prototypes for Multi-Label Few-Shot Image Classification with Word Vector Guided Attention | [PDF](https://www.aaai.org/AAAI22Papers/AAAI-4546.YanK.pdf)/[Code](https://github.com/yankun-pku/Inferring-Prototypes-for-Multi-Label-Few-Shot-Image-Classification-with-Word-Vector-Guided-Attention) |
 | **ICCV'21** | **[BiAM]** Discriminative Region-based Multi-Label Zero-Shot Learning |[PDF](https://openaccess.thecvf.com/content/ICCV2021/papers/Narayan_Discriminative_Region-Based_Multi-Label_Zero-Shot_Learning_ICCV_2021_paper.pdf)/[Code](https://github.com/akshitac8/BiAM) |
 | **ICCV'21** | Semantic Diversity Learning for Zero-Shot Multi-label Classification | [PDF](https://openaccess.thecvf.com/content/ICCV2021/papers/Ben-Cohen_Semantic_Diversity_Learning_for_Zero-Shot_Multi-Label_Classification_ICCV_2021_paper.pdf)/[Code](https://github.com/Alibaba-MIIL/ZS_SDL) |
 | **ICCV'21** | Interaction Compass: Multi-Label Zero-Shot Learning of Human-Object Interactions via Spatial Relations | [PDF](https://openaccess.thecvf.com/content/ICCV2021/papers/Hu_TkML-AP_Adversarial_Attacks_to_Top-k_Multi-Label_Learning_ICCV_2021_paper.pdf) |
@@ -106,8 +107,8 @@
 |  **Pub.**   | **Title**                                                    |                          **Links**                           |
 | :---------: | :----------------------------------------------------------- | :----------------------------------------------------------: |
 | **TPAMI'21** | **[P-GCN]** Learning Graph Convolutional Networks for Multi-Label Recognition and Applications | [PDF](https://ieeexplore.ieee.org/abstract/document/9369105) |
-| **AAAI'22** | Semantic-Aware Representation Blending for Multi-Label Image Recognition with Partial Labels | [PDF](https://arxiv.org/abs/2112.10941)/[Code](https://github.com/HCPLab-SYSU/HCP-MLR-PL) |
-| **AAAI'22** | Structured Semantic Transfer for Multi-Label Recognition with Partial Labels | [PDF]()/[Code](https://github.com/HCPLab-SYSU/HCP-MLR-PL) |  
+| **AAAI'22** | Semantic-Aware Representation Blending for Multi-Label Image Recognition with Partial Labels | [PDF](https://www.aaai.org/AAAI22Papers/AAAI-1134.PuT.pdf)/[Code](https://github.com/HCPLab-SYSU/HCP-MLR-PL) |
+| **AAAI'22** | Structured Semantic Transfer for Multi-Label Recognition with Partial Labels | [PDF](https://www.aaai.org/AAAI22Papers/AAAI-1133.ChenT.pdf)/[Code](https://github.com/HCPLab-SYSU/HCP-MLR-PL) |  
 | **CVPR'21** | Multi-Label Learning from Single Positive Labels | [PDF](https://openaccess.thecvf.com/content/CVPR2021/papers/Cole_Multi-Label_Learning_From_Single_Positive_Labels_CVPR_2021_paper.pdf) |
 |  **CVPR'20** | Interactive Multi-Label CNN Learning with Partial Labels | [PDF](https://openaccess.thecvf.com/content_CVPR_2020/papers/Huynh_Interactive_Multi-Label_CNN_Learning_With_Partial_Labels_CVPR_2020_paper.pdf) |
 | **NeurIPS'20** | Exploiting weakly supervised visual patterns to learn from partial annotations | [PDF](https://proceedings.neurips.cc/paper/2020/file/066ca7bf90807fcd8e4f1eaef4e4e8f7-Paper.pdf) |
