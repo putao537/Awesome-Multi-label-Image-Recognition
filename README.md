@@ -33,7 +33,6 @@
 | :--------: | :----------------------------------------------------------- | :----------------------------------------------------------: |
 | **TPAMI** | **[P-GCN]** Learning Graph Convolutional Networks for Multi-Label Recognition and Applications | [PDF](https://ieeexplore.ieee.org/abstract/document/9369105) |
 | **TIP** | **[MCAR]** Learning to Discover Multi-Class Attentional Regions for Multi-Label Image Recognition | [PDF](https://arxiv.org/abs/2007.01755)/[Code](https://github.com/gaobb/MCAR) |
-| **TMM** | **[DER]** Disentangling, Embedding and Ranking Label Cues for Multi-Label Image Recognition | [PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9122471) |
 | **CVPR** | **[C-Trans]** General Multi-label Image Classification with Transformers | [PDF](https://openaccess.thecvf.com/content/CVPR2021/papers/Lanchantin_General_Multi-Label_Image_Classification_With_Transformers_CVPR_2021_paper.pdf)/[Code](https://github.com/QData/C-Tran) | 
 | **ICCV** | **[TDRG]** Transformer-based Dual Relation Graph for Multi-label Image Recognition | [PDF](https://openaccess.thecvf.com/content/ICCV2021/papers/Zhao_Transformer-Based_Dual_Relation_Graph_for_Multi-Label_Image_Recognition_ICCV_2021_paper.pdf)/[Code](https://github.com/iCVTEAM/TDRG) |
 | **ICCV** | **[ASL]** Asymmetric Loss For Multi-Label Classification | [PDF](https://openaccess.thecvf.com/content/ICCV2021/papers/Ridnik_Asymmetric_Loss_for_Multi-Label_Classification_ICCV_2021_paper.pdf)/[Code](https://github.com/Alibaba-MIIL/ASL) |
