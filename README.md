@@ -56,6 +56,7 @@
 |  **TMM** | **[DER]** Disentangling, Embedding and Ranking Label Cues for Multi-Label Image Recognition | [PDF](https://ieeexplore.ieee.org/document/9122471) |
 |  **TMM** | **[TS-GCN]** Joint Input and Output Space Learning for Multi-Label Image Classification | [PDF](https://ieeexplore.ieee.org/document/9115821) |
 |  **CVPR** | **[PLA]** Orderless_Recurrent_Models_for_Multi-Label_Classification | [PDF](https://openaccess.thecvf.com/content_CVPR_2020/papers/Yazici_Orderless_Recurrent_Models_for_Multi-Label_Classification_CVPR_2020_paper.pdf)/[Code](https://github.com/voyazici/orderless-rnn-classification) |
+| **CVPR** | Don’t Judge an Object by Its Context: Learning to Overcome Contextual Bias | [PDF](https://openaccess.thecvf.com/content_CVPR_2020/papers/Singh_Dont_Judge_an_Object_by_Its_Context_Learning_to_Overcome_CVPR_2020_paper.pdf)/[Code](https://github.com/princetonvisualai/ContextualBias) |
 |  **ECCV** | **[ADD-GCN]** Attention-Driven Dynamic Graph Convolutional Network for Multi-Label Image Recognition | [PDF](https://arxiv.org/abs/2012.02994)/[Code](https://github.com/Yejin0111/ADD-GCN) |
 |  **AAAI** | **[KSSNet]** Multi-Label Classification with Label Graph Superimposing | [PDF](https://arxiv.org/abs/1911.09243)/[Code](https://github.com/mathkey/mssnet) |
 |  **AAAI** | Cross-Modality Attention with Semantic Graph Embedding for Multi-Label Classification | [PDF](https://arxiv.org/abs/1912.07872) |
