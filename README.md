@@ -27,6 +27,7 @@
 |  **Pub.**  | **Title**                                                    |                          **Links**                           |
 | :--------: | :----------------------------------------------------------- | :----------------------------------------------------------: |
 | **TNNLS** | **[FDDS]** Multilabel Convolutional Network With Feature Denoising and Details Supplement | [PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9721413) |
+| arxiv | **[GATN]** Graph Attention Transformer Network for Multi-Label Image Classification | [PDF](https://arxiv.org/pdf/2203.04049.pdf) |
   
 ### 2021       
 |  **Pub.**  | **Title**                                                    |                          **Links**                           |
@@ -103,6 +104,7 @@
 | **CVPR'18** | Multi-Label Zero-Shot Learning with Structured Knowledge Graphs | [PDF](https://openaccess.thecvf.com/content_cvpr_2018/papers/Lee_Multi-Label_Zero-Shot_Learning_CVPR_2018_paper.pdf)/[Code](https://github.com/Phoenix1327/ML-ZSL) |
 | **CVPR'16** | Fast Zero-Shot Image Tagging | [PDF](https://openaccess.thecvf.com/content_cvpr_2016/papers/Zhang_Fast_Zero-Shot_Image_CVPR_2016_paper.pdf)/[Code](https://github.com/brthmas/Fast-Zero-Shot-Image-Tagging) |
 | arxiv | Multi-Label Learning from Single Positive Labels | [PDF](https://arxiv.org/pdf/2106.09708.pdf)|
+| arxiv | Towards Unbiased Multi-label Zero-Shot Learning with Pyramid and Semantic Attention | [PDF](https://arxiv.org/pdf/2203.03483.pdf) |
 </details>
 
 
