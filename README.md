@@ -26,6 +26,7 @@
 ### 2022
 |  **Pub.**  | **Title**                                                    |                          **Links**                           |
 | :--------: | :----------------------------------------------------------- | :----------------------------------------------------------: |
+| **TIP** | **[SST]** SST: Spatial and Semantic Transformers for Multi-label Image Recognition | [PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9733172) |
 | **TNNLS** | **[FDDS]** Multilabel Convolutional Network With Feature Denoising and Details Supplement | [PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9721413) |
 | arxiv | **[GATN]** Graph Attention Transformer Network for Multi-Label Image Classification | [PDF](https://arxiv.org/pdf/2203.04049.pdf) |
   
