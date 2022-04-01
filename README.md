@@ -110,7 +110,7 @@
 
 
 <details>
-  <summary> Multi-label Image Recognition with Partial Labels </summary>
+  <summary> Multi-label Image Recognition with Missing Labels </summary>
   
 |  **Pub.**   | **Title**                                                    |                          **Links**                           |
 | :---------: | :----------------------------------------------------------- | :----------------------------------------------------------: |
@@ -121,7 +121,10 @@
 |  **CVPR'20** | Interactive Multi-Label CNN Learning with Partial Labels | [PDF](https://openaccess.thecvf.com/content_CVPR_2020/papers/Huynh_Interactive_Multi-Label_CNN_Learning_With_Partial_Labels_CVPR_2020_paper.pdf) |
 | **NeurIPS'20** | Exploiting weakly supervised visual patterns to learn from partial annotations | [PDF](https://proceedings.neurips.cc/paper/2020/file/066ca7bf90807fcd8e4f1eaef4e4e8f7-Paper.pdf) |
 |  **CVPR'19** | Learning a Deep ConvNet for Multi-label Classification with Partial Labels | [PDF](https://openaccess.thecvf.com/content_CVPR_2019/papers/Durand_Learning_a_Deep_ConvNet_for_Multi-Label_Classification_With_Partial_Labels_CVPR_2019_paper.pdf) |
+| arxiv | Spatial Consistency Loss for Training Multi-Label Classifiers from Single-Label Annotations | [PDF](https://arxiv.org/pdf/2203.06127.pdf) |
+| arxiv | Simple and Robust Loss Design for Multi-Label Learning with Missing Labels | [PDF](https://arxiv.org/pdf/2112.07368.pdf) |
 | arxiv | **[ATAM]** Rethinking Crowdsourcing Annotation: Partial Annotation with Salient Labels for Multi-Label Image Classification | [PDF](https://arxiv.org/pdf/2109.02688.pdf) |
+
 </details>
 
 
