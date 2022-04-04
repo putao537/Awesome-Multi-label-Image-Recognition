@@ -49,6 +49,7 @@
 | arxiv | Multi-layered Semantic Representation Network for Multi-label Image Classification | [PDF](https://arxiv.org/pdf/2106.11596.pdf) | 
 | arxiv | Contrast Learning Visual Attention for Multi Label Classification | [PDF](https://arxiv.org/pdf/2107.11626.pdf) |
 | arxiv | Learning Discriminative Representations for Multi-Label Image Recognition | [PDF](https://arxiv.org/pdf/2107.11159.pdf) |
+| arxiv | Fine-Grained AutoAugmentation for Multi-Label Classification | [PDF](https://arxiv.org/pdf/2107.05384.pdf) |
 
 ### 2020       
 
