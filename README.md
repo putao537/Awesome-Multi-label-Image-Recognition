@@ -126,6 +126,7 @@
 | arxiv | Simple and Robust Loss Design for Multi-Label Learning with Missing Labels | [PDF](https://arxiv.org/pdf/2112.07368.pdf) |
 | arxiv | **[ATAM]** Rethinking Crowdsourcing Annotation: Partial Annotation with Salient Labels for Multi-Label Image Classification | [PDF](https://arxiv.org/pdf/2109.02688.pdf) |
 | arxiv | Multi-label Classification with Partial Annotations using Class-aware Selective Loss | [PDF](https://arxiv.org/pdf/2110.10955.pdf)/[Code](https://github.com/Alibaba-MIIL/PartialLabelingCSL) |
+| arxiv | Acknowledging the Unknown for Multi-label Learning with Single Positive Labels | [PDF](https://arxiv.org/pdf/2203.16219.pdf) |
 
 </details>
 
