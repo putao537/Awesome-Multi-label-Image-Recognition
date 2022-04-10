@@ -26,6 +26,7 @@
 ### 2022
 |  **Pub.**  | **Title**                                                    |                          **Links**                           |
 | :--------: | :----------------------------------------------------------- | :----------------------------------------------------------: |
+| **TPAMI** | **[KGGR]** Knowledge-Guided Multi-Label Few-Shot Learning for General Image Recognition | [PDF](https://arxiv.org/abs/2009.09450) |
 | **TIP** | **[SST]** SST: Spatial and Semantic Transformers for Multi-label Image Recognition | [PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9733172) |
 | **TNNLS** | **[FDDS]** Multilabel Convolutional Network With Feature Denoising and Details Supplement | [PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9721413) |
 | arxiv | **[GATN]** Graph Attention Transformer Network for Multi-Label Image Classification | [PDF](https://arxiv.org/pdf/2203.04049.pdf) |
@@ -55,7 +56,6 @@
 
 |  **Pub.**  | **Title**                                                    |                          **Links**                           |
 | :--------: | :----------------------------------------------------------- | :----------------------------------------------------------: |
-| **TPAMI** | **[KGGR]** Knowledge-Guided Multi-Label Few-Shot Learning for General Image Recognition | [PDF](https://arxiv.org/abs/2009.09450) |
 |  **TMM** | **[DER]** Disentangling, Embedding and Ranking Label Cues for Multi-Label Image Recognition | [PDF](https://ieeexplore.ieee.org/document/9122471) |
 |  **TMM** | **[TS-GCN]** Joint Input and Output Space Learning for Multi-Label Image Classification | [PDF](https://ieeexplore.ieee.org/document/9115821) |
 |  **CVPR** | **[PLA]** Orderless_Recurrent_Models_for_Multi-Label_Classification | [PDF](https://openaccess.thecvf.com/content_CVPR_2020/papers/Yazici_Orderless_Recurrent_Models_for_Multi-Label_Classification_CVPR_2020_paper.pdf)/[Code](https://github.com/voyazici/orderless-rnn-classification) |
