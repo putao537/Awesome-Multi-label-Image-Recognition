@@ -151,14 +151,18 @@
 
 <h2 id="1">1. Tutorials</h2>
 
+  
 <details> <summary> Tutorials published on 2021  </summary>
   
 |  **Pub.**  | **Title**                                                    |                          **Links**                           |
 | :--------: | :----------------------------------------------------------- | :----------------------------------------------------------: |
 |  |  |  |
 
+</details>  
+  
   
 <h2 id="2">2. Talks</h2>
+  
   
 <details> <summary> Talks published on 2022  </summary>
 |  **Pub.**  | **Title**                                                    |                          **Links**                           |
@@ -166,6 +170,7 @@
 | AI Time 2022 AAAI 专场 | 部分标签场景下多标签图像识别  | [BiliBili](https://www.bilibili.com/video/BV1Va411j73F?spm_id_from=333.999.0.0) |
 
 </details>  
+  
   
 <h2 id="3">3. Blogs</h2>
 
