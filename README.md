@@ -30,8 +30,6 @@
 | **TIP** | **[SST]** SST: Spatial and Semantic Transformers for Multi-label Image Recognition | [PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9733172) |
 | **TNNLS** | **[FDDS]** Multilabel Convolutional Network With Feature Denoising and Details Supplement | [PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9721413) |
 | arxiv | **[GATN]** Graph Attention Transformer Network for Multi-Label Image Classification | [PDF](https://arxiv.org/pdf/2203.04049.pdf) |
-| arxiv | OBJECT-AWARE SELF-SUPERVISED MULTI-LABEL LEARNING | [PDF](https://arxiv.org/pdf/2205.07028.pdf)/[Code](https://github.com/liuliyang991206/OBJECT-AWARE-SELF-SUPERVISED-MULTI-LABEL-LEARNING) |  
-
   
 ### 2021       
 |  **Pub.**  | **Title**                                                    |                          **Links**                           |
@@ -162,7 +160,9 @@
 </details>
 
 <h2 id="2">2. Talks</h2>
-
+|  **Pub.**  | **Title**                                                    |                          **Links**                           |
+| :--------: | :----------------------------------------------------------- | :----------------------------------------------------------: |
+| AI Time 2022 AAAI 专场 | 部分标签场景下多标签图像识别  | [BiliBili](https://www.bilibili.com/video/BV1Va411j73F?spm_id_from=333.999.0.0) |
 
 <h2 id="3">3. Blogs</h2>
 
