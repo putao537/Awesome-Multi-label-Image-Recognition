@@ -165,6 +165,7 @@
   
   
 <details> <summary> Talks published on 2022  </summary>
+  
 |  **Pub.**  | **Title**                                                    |                          **Links**                           |
 | :--------: | :----------------------------------------------------------- | :----------------------------------------------------------: |
 | AI Time 2022 AAAI 专场 | 部分标签场景下多标签图像识别  | [BiliBili](https://www.bilibili.com/video/BV1Va411j73F?spm_id_from=333.999.0.0) |
@@ -195,7 +196,6 @@
   | **TDRG**（ICCV21）| (448,448) | CNN-Transformer | 84.6 | 86.0 | 73.1 | 79.0 | 86.6 | 76.4 | 81.2 |
   | **C-Tran**（CVPR'21）| (576,576) | CNN-Transformer | 85.1 | 86.3 | 74.3 | 79.9 | 87.7 | 76.5 | 81.7 |
   | **TDRG**（ICCV'21）| (576,576) | CNN-Transformer | 86.0 | 87.0 | 74.7 | 80.4 | 87.5 | 77.9 | 82.4 |
-  
   
   **Note:** Only present the precision, recall, and F1-measure for all prediction scores.
 </details>
