@@ -116,6 +116,7 @@
 |  **Pub.**   | **Title**                                                    |                          **Links**                           |
 | :---------: | :----------------------------------------------------------- | :----------------------------------------------------------: |
 | **TPAMI'21** | **[P-GCN]** Learning Graph Convolutional Networks for Multi-Label Recognition and Applications | [PDF](https://ieeexplore.ieee.org/abstract/document/9369105) |
+| **NIPS'22** | **[DualCoOp]** DualCoOp: Fast Adaptation to Multi-Label Recognition with Limited Annotations | [PDF](https://arxiv.org/pdf/2206.09541.pdf) |
 | **CVPR'22** | Large Loss Matters in Weakly Supervised Multi-Label Classification | [PDF](https://openaccess.thecvf.com/content/CVPR2022/papers/Kim_Large_Loss_Matters_in_Weakly_Supervised_Multi-Label_Classification_CVPR_2022_paper.pdf)/[Code](https://github.com/snucml/LargeLossMatters) |
 | **AAAI'22** | **[SARB]** Semantic-Aware Representation Blending for Multi-Label Image Recognition with Partial Labels | [PDF](https://www.aaai.org/AAAI22Papers/AAAI-1134.PuT.pdf)/[Code](https://github.com/HCPLab-SYSU/HCP-MLR-PL) |
 | **AAAI'22** | **[SST]** Structured Semantic Transfer for Multi-Label Recognition with Partial Labels | [PDF](https://www.aaai.org/AAAI22Papers/AAAI-1133.ChenT.pdf)/[Code](https://github.com/HCPLab-SYSU/HCP-MLR-PL) |  
