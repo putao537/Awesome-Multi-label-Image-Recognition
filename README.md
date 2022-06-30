@@ -31,6 +31,7 @@
 | **TNNLS** | **[FDDS]** Multilabel Convolutional Network With Feature Denoising and Details Supplement | [PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9721413) |
 | arxiv | **[GATN]** Graph Attention Transformer Network for Multi-Label Image Classification | [PDF](https://arxiv.org/pdf/2203.04049.pdf) |
 | arxiv | Object-aware  Self-supervised Multi-label Learning | [PDF]([https://arxiv.org/pdf/2203.04049.pdf](https://arxiv.org/pdf/2205.07028.pdf)) | 
+| arxiv | **[SRDL]** Semantic Representation and Dependency Learning for Multi-Label Image Recognition | [PDF](https://arxiv.org/abs/2204.03795) |
   
 ### 2021       
 |  **Pub.**  | **Title**                                                    |                          **Links**                           |
@@ -130,6 +131,8 @@
 | arxiv | Multi-label Classification with Partial Annotations using Class-aware Selective Loss | [PDF](https://arxiv.org/pdf/2110.10955.pdf)/[Code](https://github.com/Alibaba-MIIL/PartialLabelingCSL) |
 | arxiv | Acknowledging the Unknown for Multi-label Learning with Single Positive Labels | [PDF](https://arxiv.org/pdf/2203.16219.pdf) |
 | arxiv | **[DualCoOp]** DualCoOp: Fast Adaptation to Multi-Label Recognition with Limited Annotations | [PDF](https://arxiv.org/pdf/2206.09541.pdf) |
+| arxiv | **[SARB]** Semantic-Aware Representation Blending for Multi-Label Image Recognition with Partial Labels | [PDF](https://arxiv.org/abs/2205.13092)/[Code](https://github.com/HCPLab-SYSU/HCP-MLR-PL) |
+| arxiv | **[HST]** Heterogeneous Semantic Transfer for Cost-Effective Multi-Label Recognition with Partial Labels | [PDF](https://arxiv.org/abs/2205.11131)/[Code](https://github.com/HCPLab-SYSU/HCP-MLR-PL) |
 
 </details>
 
