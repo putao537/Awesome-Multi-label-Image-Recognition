@@ -30,7 +30,7 @@
 | **TIP** | **[SST]** SST: Spatial and Semantic Transformers for Multi-label Image Recognition | [PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9733172) |
 | **TNNLS** | **[FDDS]** Multilabel Convolutional Network With Feature Denoising and Details Supplement | [PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9721413) |
 | arxiv | **[GATN]** Graph Attention Transformer Network for Multi-Label Image Classification | [PDF](https://arxiv.org/pdf/2203.04049.pdf) |
-| arxiv | Object-aware  Self-supervised Multi-label Learning | [PDF]([https://arxiv.org/pdf/2203.04049.pdf](https://arxiv.org/pdf/2205.07028.pdf)) | 
+| arxiv | Object-aware  Self-supervised Multi-label Learning | [PDF](https://arxiv.org/pdf/2205.07028.pdf) | 
 | arxiv | **[SRDL]** Semantic Representation and Dependency Learning for Multi-Label Image Recognition | [PDF](https://arxiv.org/abs/2204.03795) |
   
 ### 2021       
