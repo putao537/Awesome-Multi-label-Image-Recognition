@@ -118,6 +118,7 @@
 |  **Pub.**   | **Title**                                                    |                          **Links**                           |
 | :---------: | :----------------------------------------------------------- | :----------------------------------------------------------: |
 | **TPAMI'21** | **[P-GCN]** Learning Graph Convolutional Networks for Multi-Label Recognition and Applications | [PDF](https://ieeexplore.ieee.org/abstract/document/9369105) |
+| **CVPR'22** | Multi-label Classification with Partial Annotations using Class-aware Selective Loss | [PDF](https://arxiv.org/pdf/2110.10955.pdf)/[Code](https://github.com/Alibaba-MIIL/PartialLabelingCSL) |
 | **CVPR'22** | Large Loss Matters in Weakly Supervised Multi-Label Classification | [PDF](https://openaccess.thecvf.com/content/CVPR2022/papers/Kim_Large_Loss_Matters_in_Weakly_Supervised_Multi-Label_Classification_CVPR_2022_paper.pdf)/[Code](https://github.com/snucml/LargeLossMatters) |
 | **AAAI'22** | **[SARB]** Semantic-Aware Representation Blending for Multi-Label Image Recognition with Partial Labels | [PDF](https://www.aaai.org/AAAI22Papers/AAAI-1134.PuT.pdf)/[Code](https://github.com/HCPLab-SYSU/HCP-MLR-PL) |
 | **AAAI'22** | **[SST]** Structured Semantic Transfer for Multi-Label Recognition with Partial Labels | [PDF](https://www.aaai.org/AAAI22Papers/AAAI-1133.ChenT.pdf)/[Code](https://github.com/HCPLab-SYSU/HCP-MLR-PL) |  
@@ -128,7 +129,6 @@
 | arxiv | Spatial Consistency Loss for Training Multi-Label Classifiers from Single-Label Annotations | [PDF](https://arxiv.org/pdf/2203.06127.pdf) |
 | arxiv | Simple and Robust Loss Design for Multi-Label Learning with Missing Labels | [PDF](https://arxiv.org/pdf/2112.07368.pdf) |
 | arxiv | **[ATAM]** Rethinking Crowdsourcing Annotation: Partial Annotation with Salient Labels for Multi-Label Image Classification | [PDF](https://arxiv.org/pdf/2109.02688.pdf) |
-| arxiv | Multi-label Classification with Partial Annotations using Class-aware Selective Loss | [PDF](https://arxiv.org/pdf/2110.10955.pdf)/[Code](https://github.com/Alibaba-MIIL/PartialLabelingCSL) |
 | arxiv | Acknowledging the Unknown for Multi-label Learning with Single Positive Labels | [PDF](https://arxiv.org/pdf/2203.16219.pdf) |
 | arxiv | **[DualCoOp]** DualCoOp: Fast Adaptation to Multi-Label Recognition with Limited Annotations | [PDF](https://arxiv.org/pdf/2206.09541.pdf) |
 | arxiv | **[SARB]** Semantic-Aware Representation Blending for Multi-Label Image Recognition with Partial Labels | [PDF](https://arxiv.org/abs/2205.13092)/[Code](https://github.com/HCPLab-SYSU/HCP-MLR-PL) |
